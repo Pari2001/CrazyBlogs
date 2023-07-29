@@ -99,7 +99,7 @@ const Daisynavbar = () => {
                     <Navbar.Center>
                         <Button color="ghost" className="normal-case text-xl mouse600">
                             <Link exact to="/">
-                                daisyBlogs
+                                CrazyBlogs
                             </Link>
                         </Button>
                     </Navbar.Center>
